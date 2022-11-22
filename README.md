@@ -16,7 +16,7 @@ Le flux de données instantané est mis à jour instantanément toutes les 10 mi
 
 # Objectif
 Notre objectif majeur dans ce projet est de :
-* Mener une nettoyage structuée des données brutes
+* Mener un nettoyage structué sur des données brutes
 * Faire une analyse exploratoire (Analyse univariée et multivariée) comprenant:
     * Description statistique
     * L'évolution du prix du carbutant dans le temps   
